@@ -5,7 +5,7 @@
     .title { font-size: 120%; 
     white-space: nowrap;}
     .subhead { font-size: 60%; }
-    .lang {white-space: nowrap;}
+    .w3-image { height: auto; }
 }
 
 
@@ -14,8 +14,7 @@
     .title { font-size: 55%; }
     .subhead { font-size: 33%; }  
     .w3-image {
-        height: 500px}
-     .lang {white-space: nowrap;}
+        height: 375px}
 }
 
 a {
@@ -320,7 +319,6 @@ hr {
 
 .w3-image {
     max-width: 100%;
-    height: auto
 }
 
 img {
