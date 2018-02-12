@@ -11,7 +11,7 @@
 
 @media only screen and (max-width: 550px)
 {
-    .title { font-size: 55%; white-space: nowrap; }
+    .title { font-size: 65%; white-space: nowrap; }
     .subhead { font-size: 30%; }  
     .w3-image {
         height: 601px;
